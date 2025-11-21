@@ -1,0 +1,4 @@
+1 add typeorm and database config as env vars
+2 add config service/helper to get env vars
+3 add authentication/authorization via jwt
+4 add util decorators (public, CurrentUser, )
